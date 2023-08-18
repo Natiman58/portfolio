@@ -1,0 +1,34 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/one.jpg",
+            "title": "The AirBnB clone",
+            "description": "Full stack web-app using HTML, CSS5, Python, Mysql",
+            "url": "https://github.com/Natiman58/The-HBNB-clone"
+        },
+        {
+            "cover": "/portfolio/1/one.jpg",
+            "title": "Chat Street",
+            "description": "Full stack web-app using HTML, CSS5, Python, Mysql",
+            "url": "https://github.com/Solomon-Kebede/chatstreet/tree/django"
+        },
+        {
+            "cover": "/portfolio/1/one.jpg",
+            "title": "Movie review",
+            "description": "MERN stack appliation for checking out movie reviews",
+            "url": "https://movie-review-app-3kjq.onrender.com"
+        },
+        {
+            "cover": "/portfolio/1/one.jpg",
+            "title": "Chat Street",
+            "description": "Full stack web-app using HTML, CSS5, Python, Mysql",
+            "url": "https://github.com/Solomon-Kebede/chatstreet/tree/django"
+        },
+        {
+            "cover": "/portfolio/1/one.jpg",
+            "title": "Chat Street",
+            "description": "Full stack web-app using HTML, CSS5, Python, Mysql",
+            "url": "https://github.com/Solomon-Kebede/chatstreet/tree/django"
+        }
+    ]
+}
