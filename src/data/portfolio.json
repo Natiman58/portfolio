@@ -20,7 +20,7 @@
         },
         {
             "cover": "/portfolio/1/one.jpg",
-            "title": "Chat Street",
+            "title": "SS",
             "description": "Full stack web-app using HTML, CSS5, Python, Mysql",
             "url": "https://github.com/Solomon-Kebede/chatstreet/tree/django"
         },
