@@ -128,10 +128,14 @@
         }
     }
     .portfolio-page .image-box .content {
+        position: relative;
+        left: -10%;
 
         .title {
+            font-size: 25px;
+        }
+        .description {
             font-size: 15px;
-            margin-bottom: 0px;
         }
     }
 }
