@@ -24,9 +24,10 @@
         height: 400px;
         overflow: hidden;
         border-radius: 10px;
-        max-width: calc(25% - 10px);
         margin-left: 20px;
         margin-right: 20px;
+        max-width: calc(25% - 15px); /* Subtracting gap to ensure 4 items fit */
+        box-sizing: border-box;
 
         .portfolio-image {
             position: absolute;
@@ -123,7 +124,14 @@
 
         .image-box {
             height: 200px;
-            max-width: calc(50% - 10px);
+            max-width: calc(50% - 40px);
+        }
+    }
+    .portfolio-page .image-box .content {
+
+        .title {
+            font-size: 15px;
+            margin-bottom: 0px;
         }
     }
 }
