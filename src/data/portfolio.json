@@ -23,6 +23,12 @@
             "title": "SONIC OCR",
             "description": "It's a tool to help you scan your digital files and extract the right information that you need.",
             "url": "https://github.com/Solomon-Kebede/SonicOCR"
+        },
+        {
+            "cover": "/portfolio/1/five.jpg",
+            "title": "My Socials",
+            "description": "It's a tool to help you scan your digital files and extract the right information that you need.",
+            "url": "https://social-media-app-front.vercel.app/"
         }
     ]
 }
