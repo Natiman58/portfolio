@@ -16,7 +16,7 @@
             "cover": "/portfolio/1/two.jpg",
             "title": "Movie review",
             "description": "MERN stack appliation for checking out movie reviews",
-            "url": "https://movie-review-app-3kjq.onrender.com"
+            "url": "https://movie-reviews-2.vercel.app/movies"
         },
         {
             "cover": "/portfolio/1/one.jpg",
