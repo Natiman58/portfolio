@@ -27,7 +27,7 @@
         {
             "cover": "/portfolio/1/five.jpg",
             "title": "My Socials",
-            "description": "It's a tool to help you scan your digital files and extract the right information that you need.",
+            "description": "A sime social media app with basic functionalities and its built on MERN stack",
             "url": "https://social-media-app-front.vercel.app/"
         }
     ]
