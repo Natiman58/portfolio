@@ -20,15 +20,9 @@
         },
         {
             "cover": "/portfolio/1/one.jpg",
-            "title": "SS",
-            "description": "Full stack web-app using HTML, CSS5, Python, Mysql",
-            "url": "https://github.com/Solomon-Kebede/chatstreet/tree/django"
-        },
-        {
-            "cover": "/portfolio/1/one.jpg",
-            "title": "Chat Street",
-            "description": "Full stack web-app using HTML, CSS5, Python, Mysql",
-            "url": "https://github.com/Solomon-Kebede/chatstreet/tree/django"
+            "title": "SONIC OCR",
+            "description": "It's a tool to help you scan your digital files and extract the right information that you need.",
+            "url": "https://github.com/Solomon-Kebede/SonicOCR"
         }
     ]
 }
