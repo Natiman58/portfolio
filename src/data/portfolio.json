@@ -3,7 +3,7 @@
         {
             "cover": "/portfolio/1/five.jpg",
             "title": "My Socials",
-            "description": "A sime social media app with basic functionalities and its built on MERN stack",
+            "description": "A simple social media appication using with basic functionalities built on MERN stack",
             "url": "https://social-media-app-front.vercel.app/"
         },
         {
@@ -15,13 +15,13 @@
         {
             "cover": "/portfolio/1/four.jpg",
             "title": "Chat Street",
-            "description": "Full stack web-app using HTML, CSS5, Python, Mysql",
+            "description": "Full stack using Django framework and redis channel layer for communication",
             "url": "https://github.com/Solomon-Kebede/chatstreet/tree/django"
         },
         {
             "cover": "/portfolio/1/one.jpg",
             "title": "The AirBnB clone",
-            "description": "Full stack web-app using HTML, CSS5, Python, Mysql",
+            "description": "A single page fullstack application using LAMP stack & it is for checking avaialble rooms based on their location and price range",
             "url": "https://github.com/Natiman58/The-HBNB-clone"
         },
         {
