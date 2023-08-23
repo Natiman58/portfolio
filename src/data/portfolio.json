@@ -21,7 +21,7 @@
         {
             "cover": "/portfolio/1/one.jpg",
             "title": "The AirBnB clone",
-            "description": "A single page fullstack application using LAMP stack technology & it is for checking avaialble rooms based on their location and price range",
+            "description": "A single page fullstack application using LAMP stack for sorting rooms by location and price range.",
             "url": "https://github.com/Natiman58/The-HBNB-clone"
         },
         {
