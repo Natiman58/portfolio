@@ -1,6 +1,12 @@
 {
     "portfolio": [
         {
+            "cover": "/portfolio/1/six.jpg",
+            "title": "EYONA Phamaceutical PLC",
+            "description": "A site for local phamaceutical company",
+            "url": "https://eyonapharma.com/"
+        },
+        {
             "cover": "/portfolio/1/five.jpg",
             "title": "My Socials",
             "description": "A simple social media application using with all the basic functionalities built on MERN stack",
@@ -16,7 +22,7 @@
             "cover": "/portfolio/1/four.jpg",
             "title": "Chat Street",
             "description": "Full stack chat application built using Django framework and redis channel layer for communication",
-            "url": "https://github.com/Solomon-Kebede/chatstreet/tree/django"
+            "url": "https://github.com/Natiman58/chatstreet.git"
         },
         {
             "cover": "/portfolio/1/one.jpg",
@@ -28,7 +34,7 @@
             "cover": "/portfolio/1/three.jpg",
             "title": "SONIC OCR",
             "description": "It's a tool to help you scan your digital files and extract the right information that you need.",
-            "url": "https://github.com/Solomon-Kebede/SonicOCR"
+            "url": "https://github.com/Natiman58/SonicOCR.git"
         }
     ]
 }
