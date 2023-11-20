@@ -132,7 +132,7 @@
         left: -10%;
 
         .title {
-            font-size: 19px;
+            font-size: 15px;
         }
         .description {
             font-size: 12px;
@@ -156,3 +156,86 @@
         }
     }
 }
+
+// for mobile screen
+@media screen and (max-width: 768px) {
+    .portfolio-page {
+        padding-left: 20px;
+        padding-right: 20px;
+        width: calc(100% - 40px);
+        position: initial;
+        height: 100%;
+        overflow: auto;
+
+        h1.page-title {
+            margin-left: 20px;
+            margin-top: 20px;
+        }
+
+        .images-container {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            padding-bottom: 100px;
+        }
+
+        .image-box {
+            position: relative;
+            flex: 1 1 20%;
+            height: 400px;
+            overflow: hidden;
+            border-radius: 10px;
+            margin-left: 20px;
+            margin-right: 20px;
+            max-width: calc(50% - 15px); /* Subtracting gap to ensure 4 items fit */
+            box-sizing: border-box;
+
+            .portfolio-image {
+                position: absolute;
+                z-index: 2;
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+
+            .content {
+                position: absolute;
+                width: 90%;
+                z-index: 3;
+                padding: 10px 20px;
+                transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+                background: linear-gradient(
+                    180deg,
+                    rgba(0, 0, 0, 0.2) 0,
+                    rgba(0, 0, 0, 1)
+                    );
+                bottom: -70px;
+            }
+            .title {
+                margin-top: 0;
+                margin-bottom: 0;
+                color: #fff;
+                font-size: 14px;
+                font-weight: 500;
+                line-height: 24px;
+            }
+            .description {
+                font-size: 14px;
+                margin-bottom: 5px;
+                color: #fff;
+                font-weight: 700;
+                word-wrap: break-word;
+            }
+            .btn {
+                margin-top: 30px;
+                margin-bottom: 10px;
+                padding: 0 23px;
+                height: 40px;
+                line-height: 34px;
+                border: 2px solid #ffd700;}
+                border-radius: 4px;
+                font-size: 14px;
+                }
+    }
+}
+
